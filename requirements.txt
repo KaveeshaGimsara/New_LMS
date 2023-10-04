@@ -133,3 +133,9 @@ wcwidth==0.2.8
 Werkzeug==2.2.2
 whitenoise==6.2.0
 wrapt==1.15.0
+asgiref==3.5.2
+Django==4.0.4
+gunicorn==20.1.0
+psycopg2==2.8.6
+sqlparse==0.4.2
+whitenoise==6.2.0
