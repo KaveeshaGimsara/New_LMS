@@ -2,6 +2,12 @@ TODO:
 	- Course add and drop should offer by only the department head of the course
 	- Payment integration: Integrating Paypal and Stripe for students to pay there fee
 
+
+
+python manage.py makemigrations &&  python manage.py migrate 
+
+
+
 	- Create a dashboard for the school admin only: The dashboard will contain: -
 			- Overall attendance
 			- School demographics
